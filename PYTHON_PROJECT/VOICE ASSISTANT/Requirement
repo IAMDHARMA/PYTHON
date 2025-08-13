@@ -1,0 +1,12 @@
+1.pyttsx3-this for speech to text and text to speech conversion
+2.speech_recognition-google api
+3.date and time package
+4.wikipedia
+5.webbrowser
+6.os
+7.comtypes.client
+
+install
+
+1.pip install pipwin
+2.pip install
